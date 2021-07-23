@@ -110,3 +110,8 @@ table {
   color: #f3f3f3;
   font-weight: bold;
 }
+
+th,
+td {
+  word-wrap: break-word;
+}
